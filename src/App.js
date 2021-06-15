@@ -14,7 +14,7 @@ import { green, orange } from '@material-ui/core/colors';
 
 const useStyles = makeStyles({
   root: {
-    background: 'linear-gradient(45deg, #333, #000)',
+    background: 'linear-gradient(45deg, #FE6B8B, #FF8E53)',
     border: 0,
     marginBottom: 15,
     borderRadius: 15,
